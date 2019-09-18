@@ -1,2 +1,2 @@
 # ppt_edu
-Generate PPT with python in edu topic
+Generate PPTs with python in edu topic
